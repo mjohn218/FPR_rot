@@ -1,0 +1,17 @@
+1 #NProtein Types: Number of Proteins
+3 #nmol: number of interfaces
+5e8 #Nit
+0.1 #time step (us)
+12 #Nrxn
+9 #Nspecies
+5 #mass
+494.0 #l: xsidelentgh in nm
+494.0 #l: ysidelentgh in nm
+494.0 #l: zsidelentgh in nm
+1000 #statwrite: printout timestep
+10000 #config write your coords
+100000 #restart write freq
+0 #restart
+0 #clath type
+____MOLECULE INFO FILES____
+CLATH.info

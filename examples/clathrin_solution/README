@@ -1,0 +1,5 @@
+
+
+run via:
+./rd_gen_reweight_NOPBC_complex parms_0.1.inp rxn_0.2.inp
+
